@@ -1,0 +1,19 @@
+{
+  "name": "generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.6.4",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.2.31",
+    "nodemon": "^2.0.15",
+    "winston": "^3.7.2"
+  }
+}
